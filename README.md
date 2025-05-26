@@ -1,10 +1,6 @@
 # Amazon-prime-Dashboard
-# 📊 Amazon Prime Video Dashboard Project
-
 This project is a **data visualization dashboard** built using **Tableau** to analyze Amazon Prime Video's content library. It provides insights into content distribution, genres, release trends, ratings, and top contributing countries.
-
----
-
+# 📊 Amazon Prime Video Dashboard Project
 ## 🔍 Project Overview
 
 The **Amazon Prime Dashboard** helps users understand:
